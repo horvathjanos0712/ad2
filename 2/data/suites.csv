@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Mon Jul 18 20:19:18 GMT 2022","Mon Jul 18 20:19:22 GMT 2022","3989","","TelexTest","","TelexTest","testNavigation","testNavigation()",""
